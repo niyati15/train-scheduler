@@ -77,4 +77,4 @@ var database = firebase.database();
       console.log("Errors handled: " + errorObject.code);
     });
 
-}); //end document ready
+// }); //end document ready
